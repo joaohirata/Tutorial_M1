@@ -1,0 +1,7 @@
+2a60927148abd1d33b818b535e306557
+::res://::1678199843
+default_env.tres::Environment::-1::1678199825::0::1::::<><>::
+export_presets.cfg::TextFile::-1::1678127450::0::1::::<><>::
+icon.png::CompressedTexture2D::9020831091259051113::1677775883::1678199846::1::::<><>::
+Node2D.gd::GDScript::-1::1678199825::0::1::::<>Node2D<>::
+Node2D.tscn::PackedScene::-1::1678199825::0::1::::<><>::res://Node2D.gd
